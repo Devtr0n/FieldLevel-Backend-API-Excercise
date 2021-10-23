@@ -25,7 +25,8 @@ This project is about exposing a single web api endpoint that returns the most r
 
 # How To Run
 
-{Provide any details FieldLevel should know to get this running}
+- Open the solution in Visual Studio
+- Press F5 to start debugging
 
 # Deployment
 This will be auto deployed to an azure site
@@ -36,6 +37,38 @@ https://github.com/projectkudu/kudu/wiki/Customizing-deployments
 
 # FAQ
 
-Q: **Can I ask questions?**
+Q: **Why aren't there any unit tests or integration tests?? I thought you loved xUnit?**
 
-A: Of Course. Often, the answer will be "You choose".
+A: Time constraints. 
+
+Q: **Why is Swagger / Open API documentation missing?**
+
+A: Again, time constraints. 
+
+Q: **Would you really use a DateTime type and the .Subract() method to limit access to the third party data (example JSON)?**
+
+A: Of course not. Time constraints. 
+
+Q: **Where are the comments?**
+
+A: Once again, time constraints. The code is fairly straightforward and simple enough.
+
+Q: **Why did you choose .NET 5 and not .NET 6?**
+
+A: I haven't installed .NET 6 yet, but have been keeping up via Youtube and Microsoft's videos.
+
+Q: **Why did you complete this project on a Friday night, you don't even live in our time zone?**
+
+A: It looked like fun and I was bored?
+
+## Contact ##
+
+You can contact me <a href="mailto:richardsmailbox@gmail.com?subject=Getting in touch!&body=Hi, I would like to contact you, Devtr0n.">via gmail</a> or at my website http://www.richardhollon.com (I wrote it in ReactJS/NPM) or find me on <a href="https://www.linkedin.com/in/richardhollon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
+<p align="left">
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt=".NET Core" src="https://img.shields.io/badge/-.NET Core-orange"/>
+</p>
